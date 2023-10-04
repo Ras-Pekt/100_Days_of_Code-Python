@@ -53,7 +53,6 @@ while True:
 
     print(caeser(direction, text, shift))
     prompt = input("Type 'Yes' to encode/decode again. 'No' to exit: ").lower()
-    if not prompt or prompt == "no":
+    if not prompt or prompt != "yes":
         print("Goodbye.")
         break
-    continue
