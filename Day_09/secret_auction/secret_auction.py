@@ -5,7 +5,7 @@ from art import logo
 """
 This exercise requires the screen to be cleared once a bidder is done bidding
 However, since this is for learning purposes
-(and there isn't an straightforward way to accomplish this the terminal)
+(and there isn't a straightforward way to accomplish this in the terminal)
 this feature will not be included
 """
 
